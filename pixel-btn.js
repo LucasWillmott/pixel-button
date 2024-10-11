@@ -1,3 +1,5 @@
+//v2
+
 // You can add this into your css file, it's just the webflow copying button was bugging out with css embeds
 const style = document.createElement('style');
 style.innerHTML = `.block[class*="cc-active"] { background-color: white; }`;
